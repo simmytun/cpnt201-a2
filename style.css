@@ -1,0 +1,33 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+
+    /* Making it visible. */
+    img {
+        width: 100%;
+        border: 1px solid black;
+      }
+  
+      /* Making it pretty. */
+      body {
+        font-size: clamp(18px, 4vw, 32px);
+        font-family: 'Sansita Swashed', cursive;
+      }
+  
+      main, footer {
+        width: 80vw;
+        max-width: 1500px;
+        margin: 1rem auto;
+      }
+
+
+    /* Make it Pretty */
+    header {
+
+
+      background-color: black;
+      padding: 1em;
+      color: white;
+      text-align: center;
+    }
